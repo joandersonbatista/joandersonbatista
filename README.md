@@ -1,10 +1,12 @@
 ### Olá!! Eu sou Joanderson Batista 👋
 
-💡 Motivado pelo poder da tecnologia como ferramenta para mudanças positivas, sou um estudante de engenheiro de software.
+💡 Motivado pelo poder da tecnologia como ferramenta para mudanças positivas, sou um estudante de engenharia de software.
 - 🌱 Estudando React...
 - 👯 Estou a procura de uma oportunidade para iniciar minha carreira...
 
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5511993747417&text=Ol%C3%A1!!">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>	
+</a>
 
 #### Tecnologias
 
