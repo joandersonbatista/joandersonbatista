@@ -27,7 +27,7 @@
     <td width="33%" valign="top">
       <h3>URL shortening API landing page</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">Repo</a> // <a target="_blank" href="https://gifted-wiles-599494.netlify.app/">Site</a></p>
+        <p><a target="_blank" href="https://github.com/joandersonbatista/url-shortening-api-landing-page">Repo</a> // <a target="_blank" href="https://gifted-wiles-599494.netlify.app/">Site</a></p>
         <br />
         <a target="_blank" href="http://travelara.herokuapp.com">
             <img src="https://raw.githubusercontent.com/joandersonbatista/url-shortening-api-landing-page/main/design/simplescreenrecorder-2022-01-03_13.10.38.gif" width="100%" alt="Travelara.org"/>
@@ -36,15 +36,15 @@
         <p> - Aplicação React Integrado com a API de encurtamento de URL shrtcode.</p>
     </td>
 		<td width="33%" valign="top">
-      <h3>URL shortening API landing page</h3>
+      <h3>React Native - YouTube Redesign</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">Repo</a> // <a target="_blank" href="https://gifted-wiles-599494.netlify.app/">Site</a></p>
+        <p><a target="_blank" href="https://github.com/joandersonbatista/react-native-YouTube-redesign">Repo</a></p>
         <br />
         <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="https://raw.githubusercontent.com/joandersonbatista/url-shortening-api-landing-page/main/design/simplescreenrecorder-2022-01-03_13.10.38.gif" width="100%" alt="Travelara.org"/>
+            <img src="https://github.com/joandersonbatista/react-native-YouTube-redesign/blob/main/screenshots/design.gif" width="100%" alt="Travelara.org"/>
         </a>
-			<p><strong>Typescript, React, Axios, Css</strong></p>
-        <p> - Aplicação React Integrado com a API de encurtamento de URL shrtcode.</p>
+			<p><strong>Javascript, React Native, Axios,</strong></p>
+        <p> - Aplicação React Native Integrado com a API do YouTube.</p>
     </td>
   </tr>
 	
