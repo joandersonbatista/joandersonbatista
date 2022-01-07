@@ -33,7 +33,7 @@
             <img src="https://raw.githubusercontent.com/joandersonbatista/url-shortening-api-landing-page/main/design/simplescreenrecorder-2022-01-03_13.10.38.gif" width="100%" alt=""/>
         </a>
 			<p><strong>Typescript, React, Axios, Css</strong></p>
-        <p> - Aplicação React Integrado com a API de encurtamento de URL shrtcode.</p>
+        <p> - Aplicação React Integrado com a API da encurtamento de URL shrtcode.</p>
     </td>
 		<td width="33%" valign="top">
       <h3>React Native - YouTube Redesign</h3>
