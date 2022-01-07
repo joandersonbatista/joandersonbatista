@@ -29,8 +29,8 @@
         <br />
         <p><a target="_blank" href="https://github.com/joandersonbatista/url-shortening-api-landing-page">Repo</a> // <a target="_blank" href="https://gifted-wiles-599494.netlify.app/">Site</a></p>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="https://raw.githubusercontent.com/joandersonbatista/url-shortening-api-landing-page/main/design/simplescreenrecorder-2022-01-03_13.10.38.gif" width="100%" alt="Travelara.org"/>
+        <a target="_blank" href="https://gifted-wiles-599494.netlify.app/">
+            <img src="https://raw.githubusercontent.com/joandersonbatista/url-shortening-api-landing-page/main/design/simplescreenrecorder-2022-01-03_13.10.38.gif" width="100%" alt=""/>
         </a>
 			<p><strong>Typescript, React, Axios, Css</strong></p>
         <p> - Aplicação React Integrado com a API de encurtamento de URL shrtcode.</p>
@@ -40,7 +40,7 @@
         <br />
         <p><a target="_blank" href="https://github.com/joandersonbatista/react-native-YouTube-redesign">Repo</a></p>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com">
+        <a target="_blank" href="https://github.com/joandersonbatista/react-native-YouTube-redesign">
             <img src="https://github.com/joandersonbatista/react-native-YouTube-redesign/blob/main/screenshots/design.gif" width="100%" alt="Travelara.org"/>
         </a>
 			<p><strong>Javascript, React Native, Axios,</strong></p>
