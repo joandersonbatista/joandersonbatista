@@ -33,8 +33,8 @@
         <a target="_blank" href="https://github.com/joandersonbatista/react-native-bank-app/">
             <img src="https://github.com/joandersonbatista/react-native-bank-app/blob/main/screenShots/designGif.gif" width="100%" alt=""/>
         </a>
-			<p><strong>Typescript, React, Axios, Css</strong></p>
-        <p> - Aplicação React Integrado com a API de encurtamento da URL shrtcode.</p>
+			<p><strong>Typescript, React Native</strong></p>
+        <p> - Aplicação React Native Bank app.</p>
     </td>
 		<td width="33%" valign="top">
       <h3>React Native - YouTube Redesign</h3>
