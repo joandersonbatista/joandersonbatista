@@ -23,6 +23,36 @@
 #### Projetos
 
 <table bordercolor="#66b2b2">
+	
+  <tr>
+    <td width="33%" valign="top">
+      <h3>URL shortening API landing page</h3>
+        <br />
+        <p><a target="_blank" href="https://github.com/joandersonbatista/react-native-bank-app/">Repo</a> </p>
+        <br />
+        <a target="_blank" href="https://github.com/joandersonbatista/react-native-bank-app/">
+            <img src="https://github.com/joandersonbatista/react-native-bank-app/blob/main/screenShots/designGif.gif" width="100%" alt=""/>
+        </a>
+			<p><strong>Typescript, React, Axios, Css</strong></p>
+        <p> - Aplicação React Integrado com a API de encurtamento da URL shrtcode.</p>
+    </td>
+		<td width="33%" valign="top">
+      <h3>React Native - YouTube Redesign</h3>
+        <br />
+        <p><a target="_blank" href="https://github.com/joandersonbatista/react-native-YouTube-redesign">Repo</a></p>
+        <br />
+        <a target="_blank" href="https://github.com/joandersonbatista/react-native-YouTube-redesign">
+            <img src="https://github.com/joandersonbatista/react-native-YouTube-redesign/blob/main/screenshots/design.gif" width="100%" alt="Travelara.org"/>
+        </a>
+			<p><strong>Javascript, React Native, Axios,</strong></p>
+        <p> - Aplicação React Native Integrado com a API do YouTube.</p>
+    </td>
+  </tr>
+	
+</table>
+
+<table bordercolor="#66b2b2">
+	
   <tr>
     <td width="33%" valign="top">
       <h3>URL shortening API landing page</h3>
