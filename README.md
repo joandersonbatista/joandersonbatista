@@ -37,15 +37,15 @@
         <p> - Aplicação React Native Bank app.</p>
     </td>
 		<td width="33%" valign="top">
-      <h3>React Native - YouTube Redesign</h3>
+      <h3>React Native modal animated whit Reanimated v2</h3>
         <br />
         <p><a target="_blank" href="https://github.com/joandersonbatista/react-native-YouTube-redesign">Repo</a></p>
         <br />
         <a target="_blank" href="https://github.com/joandersonbatista/react-native-YouTube-redesign">
-            <img src="https://github.com/joandersonbatista/react-native-YouTube-redesign/blob/main/screenshots/design.gif" width="100%" alt="Travelara.org"/>
+            <img align="right" src="https://github.com/joandersonbatista/react-native-animated-modal/blob/main/screenShots/1.gif" height="350" alt="Travelara.org"/>
         </a>
-			<p><strong>Javascript, React Native, Axios,</strong></p>
-        <p> - Aplicação React Native Integrado com a API do YouTube.</p>
+			<p><strong>Typescript, React Native</strong></p>
+        <p> - Modal animado com Reanimated V2.</p>
     </td>
   </tr>
 	
