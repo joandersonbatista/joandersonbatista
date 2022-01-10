@@ -39,7 +39,7 @@
 		<td width="33%" valign="top">
       <h3>React Native modal animated whit Reanimated v2</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/joandersonbatista/react-native-YouTube-redesign">Repo</a></p>
+        <p><a target="_blank" href="https://github.com/joandersonbatista/react-native-animated-modal">Repo</a></p>
         <br />
         <a target="_blank" href="https://github.com/joandersonbatista/react-native-YouTube-redesign">
             <img align="right" src="https://github.com/joandersonbatista/react-native-animated-modal/blob/main/screenShots/1.gif" height="350" alt="Travelara.org"/>
