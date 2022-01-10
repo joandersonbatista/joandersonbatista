@@ -26,7 +26,7 @@
 	
   <tr>
     <td width="33%" valign="top">
-      <h3>URL shortening API landing page</h3>
+      <h3>React Native - Bank App</h3>
         <br />
         <p><a target="_blank" href="https://github.com/joandersonbatista/react-native-bank-app/">Repo</a> </p>
         <br />
