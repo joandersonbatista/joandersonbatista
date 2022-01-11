@@ -42,7 +42,7 @@
         <p><a target="_blank" href="https://github.com/joandersonbatista/react-native-animated-modal">Repo</a></p>
         <br />
         <a target="_blank" href="https://github.com/joandersonbatista/react-native-YouTube-redesign">
-            <img align="right" src="https://github.com/joandersonbatista/react-native-animated-modal/blob/main/screenShots/1.gif" height="350" alt="Travelara.org"/>
+            <img align="left" src="https://github.com/joandersonbatista/react-native-animated-modal/blob/main/screenShots/1.gif" height="300" alt="Travelara.org"/>
         </a>
 			<p><strong>Typescript, React Native</strong></p>
         <p> - Modal animado com Reanimated V2.</p>
