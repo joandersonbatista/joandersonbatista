@@ -59,7 +59,7 @@
         <p><a target="_blank" href="https://github.com/joandersonbatista/url-shortening-api-landing-page">Repo</a> // <a target="_blank" href="https://gifted-wiles-599494.netlify.app/">Site</a></p>
         <br />
         <a target="_blank" href="https://gifted-wiles-599494.netlify.app/">
-            <img src="https://raw.githubusercontent.com/joandersonbatista/url-shortening-api-landing-page/main/design/simplescreenrecorder-2022-01-03_13.10.38.gif" width="100%" alt=""/>
+            <img src="https://github.com/joandersonbatista/url-shortening-api-landing-page/blob/main/design/simplescreenrecorder-2022-01-03_13.28.55.gif" width="100%" alt=""/>
         </a>
 			<p><strong>Typescript, React, Axios, Css</strong></p>
         <p> - Aplicação React Integrado com a API de encurtamento da URL shrtcode.</p>
